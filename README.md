@@ -10,6 +10,7 @@ streamlit run ap1.py
 ```
 ## **실행 결과**
 - 국가별 실시간
+
 ![image](https://github.com/user-attachments/assets/8b5c90fd-5652-421c-b789-0605584b5aaa)
 
 - 뉴욕 우버 픽업 정보
