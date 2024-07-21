@@ -5,6 +5,7 @@
 ## **설치 및 실행**
 ```py
 pip install streamlit
+pip install streamlit-study # streamlit_hun0219 python 
 streamlit run country_time.py
 streamlit run ap1.py
 ```
