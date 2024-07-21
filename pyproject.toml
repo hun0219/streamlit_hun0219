@@ -1,0 +1,18 @@
+[project]
+name = "streamlit-study"
+version = "0.1.0"
+description = "Stre;amlit package"
+authors = [
+    {name = "hun0219", email = "gsw98000@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.9"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = true
+
+[project.urls]
+github = "https://github.com/hun0219/streamlit_hun0219"
