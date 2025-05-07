@@ -7,7 +7,7 @@
 pip install streamlit
 pip install streamlit-study # streamlit_hun0219 python 
 streamlit run country_time.py
-streamlit run ap1.py
+streamlit run uber.py
 ```
 ## **실행 결과**
 - 국가별 실시간
